@@ -7,3 +7,6 @@ currently supported configs are :
   .hc .ehi .npv4 .inpv .dark .alph
 
 vpn apk files are also supported
+
+this script cannot run on a bot, you need to run it on an actual telegram account
+the only requirement is Pyrogram -> pip install pyrogram
